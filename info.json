@@ -2,6 +2,7 @@
 	"name": "yd",
 	"displayName": "yd",
 	"description": "youdao (yd).",
+	"description": "Translation between English and Chinese based on Youdao Dictionary."
 	"examples": ["youdao Apple", "yd Apple"],
 	"categories": ["Language"]
 }
