@@ -1,0 +1,7 @@
+{
+	"name": "yd",
+	"displayName": "yd",
+	"description": "youdao (yd).",
+	"examples": ["youdao Apple", "yd Apple"],
+	"categories": ["Language"]
+}

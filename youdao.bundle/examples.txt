@@ -1,0 +1,2 @@
+youdao ~youdaotext(query here)
+yd ~youdaotext(query here)
